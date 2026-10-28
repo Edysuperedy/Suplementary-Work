@@ -1,0 +1,5 @@
+Alice, 9.5
+Bob, 7.8
+Charlie, 8.2
+Diana, 10.0
+Ethan, 6.5
